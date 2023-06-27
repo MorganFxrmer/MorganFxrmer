@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MorganFxrmer</h1>
 <h3 align="center">Computer Science student at the University of Leeds</h3>
 
-- 🔭 I’m currently working on **LeetCode algorithms road map**
+- 🔭 I’m currently working through the **NeetCode algorithms road map**
 
 - 🌱 I’m currently learning **LeetCode problem solving**
 
