@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm MorganFxrmer</h1>
 <h3 align="center"> PwC Technology Degree Apprentice studying Computer Science at the University of Leeds</h3>
 
-- 🔭 I’m currently working through the **NeetCode algorithms road map**
+- 🔭 I’m currently working through the **NeetCode algorithms road map.**
 
-- 🌱 I’m currently learning **LeetCode problem solving**
+- 🌱 I’m currently learning **LeetCode problem solving.**
 
-- 📫 How to reach me **morganfarmercareers@gmail.com**
+- 📫 How to reach me **morganfarmercareers@gmail.com.**
 
-- ⚡ Fun fact **I play jazz guitar in my free time**
+- ⚡ Fun fact **I play jazz guitar in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
