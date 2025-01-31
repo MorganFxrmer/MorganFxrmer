@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **LeetCode problem solving.**
 
-- 📫 How to reach me **morganfarmercareers@gmail.com.**
+- 📫 How to reach me: **morganfarmercareers@gmail.com.**
 
-- ⚡ Fun fact **I play jazz guitar in my free time.**
+- ⚡ Fun fact: **I play jazz guitar in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
