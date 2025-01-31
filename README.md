@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MorganFxrmer</h1>
-<h3 align="center"> PwC Technology Degree Apprentice in Computer Science student at the University of Leeds</h3>
+<h3 align="center"> PwC Technology Degree Apprentice studying Computer Science at the University of Leeds</h3>
 
 - 🔭 I’m currently working through the **NeetCode algorithms road map**
 
